@@ -1,0 +1,26 @@
+In the .l file I send to the yacc the token VARIABLE for the variables which keeps matrix,
+token DET for representing the word "det" to compute the determinant of a matrix,
+token NUMBER to recognize the elements of a matrix and the corresponding symbols for operations: +, -, *;
+:, ;, # (for transpose of a matrix), =. Here, as at the previous homework, I send o the
+yacc the integer value of a variable.
+
+In the .y file I defined 2 structures in order to keep matrix. One structure (line) keeps 
+in an array the values of a row and how many values exists in that row. The other
+structure (matrix) keeps an array of lines and how many lines are in a matrix.
+Then I had the headers of the predefined functions for:
+- create a new row in a matrix;
+- add a new element to an existing row;
+- create a new matrix;
+- add a new line to an existing matrix;
+- compute the addition between 2 matrix;
+- compute the subtraction between 2 matrix;
+- compute the multiplication between 2 matrix;
+- compute the determinant of a matrix; (unfortunattly, here I have a problem which
+couldn't find it);
+- compute the transpose of a mtrix;
+- print a matrix;
+Then I have a union which contains the value of a number and a variable, a matrix and a line.
+Then I have all the tokens from lex.
+As at the previous homework, I have an array of 26 positions of type matrix,
+which keeps every matrix of a variable. The number of positions is given by
+the number of letters in alphabet.
