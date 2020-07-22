@@ -1,0 +1,8 @@
+Yacc - datatype: char
+Yacc - variable name: x
+Yacc - equals: =
+Yacc-char: 'a'
+Yacc-end declaration: ;
+Yacc - declaration done
+Yacc-goal
+KO-syntax error

@@ -1,0 +1,10 @@
+(1 2 33)
+(17 9)
+(3 23 4)
+(2 2 4 52 2 1)
+(19 11 12)
+71
+aa bb cc)) 
+(bb cc)) cc)))
+(aa bb) (CONS cc '(dd ee))) bb) (CONS cc '(dd ee))) cc '(dd ee))) dd ee))) ee))))
+OK

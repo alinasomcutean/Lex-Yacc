@@ -1,0 +1,5 @@
+Yacc - first part: #include
+Yacc - library: "lib.h"
+Yacc - declaration done
+Yacc-goal
+OK

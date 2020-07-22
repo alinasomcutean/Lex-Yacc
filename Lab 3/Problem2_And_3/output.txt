@@ -1,0 +1,7 @@
+Lex-GREETING: hello
+Lex-QUESTION: how are you
+Lex-ANSWER: fine thank you
+Lex-FAREWELL: bye
+Yacc-dialog done
+
+KO-syntax error

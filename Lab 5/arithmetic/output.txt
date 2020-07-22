@@ -1,0 +1,16 @@
+Yacc - Number: 0
+Yacc - Final: 0
+Yacc - Exponent: 0
+Yacc - Factor: 0
+Yacc - Term: 0
+Yacc - Number: 0
+Yacc - Final: 0
+Yacc - Exponent: 0
+Yacc - Factor: 0
+Yacc - Number: 0
+Yacc - Final: 0
+Yacc - Exponent: 0
+Yacc - Multiply 0 with 0
+Yacc - Add 0 and 0
+Yacc - Final Result: 0
+OK

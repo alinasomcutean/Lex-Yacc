@@ -1,0 +1,16 @@
+Yacc - Number
+Yacc - Number
+Yacc - Number
+Yacc - Number
+Yacc - Multiplication
+Yacc - Addition
+Yacc: arithmetic expression
+Yacc - ( ) 
+Yacc - Addition
+Yacc - Number
+Yacc - Number
+Yacc - Power
+Yacc - Substraction
+Yacc: arithmetic expression
+Yacc - goal
+OK

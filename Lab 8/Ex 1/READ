@@ -1,0 +1,13 @@
+The file "lisp.l" is a simple lex file to recognize the numbers, comands paranthesis and addition.
+
+The file "lisp.y" contains:
+- a structure reprezenting the structure of a list in lisp (head and tail);
+- some user-defined functions for commands: CONS, CAR, CDR, APPEND and PRINT.
+- an union containing a number and a list;
+- some necessarilly tokens;
+- then are the rules to check the input format;
+- at cons, the new number is added to the head of the list and it is returned the new list;
+- at append, first put the first list in the result list, then go at the end of the current result list and when you reach the end add the second list;
+- functions for CDR and CAR simply return the head and the tail of the list;
+- the last 2 functions are used to display the result list in a friendly way for the user.
+

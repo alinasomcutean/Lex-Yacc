@@ -1,0 +1,7 @@
+Yacc - variable name: x
+Yacc - equals: =
+Yacc - not operator: 
+Yacc - correct expression 
+Yacc - declaration done
+Yacc-goal
+KO-syntax error

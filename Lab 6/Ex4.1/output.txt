@@ -1,0 +1,11 @@
+Yacc - node: test
+Yacc - node
+Yacc - numeric value: 3.2
+Yacc - atomic value
+Yacc - string of characters: stringn
+Yacc - atomic value
+Yacc - item
+Yacc - program - item
+Yacc - program - item
+Yacc - correct constructor
+OK

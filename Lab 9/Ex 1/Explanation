@@ -1,0 +1,3 @@
+In the .l file, I send to the yacc the token VARIABLE for the unknow variable x or X, token NUMBER which represents both the coeeficient and the degree of each term in the polynomial and the corresponding symbols for operations: +, -, *, ^.
+
+In the .y file I have the headers of the user defined functions for addition, subtraction, printing a polynomial and initialize a polynomial with 0. Also, I have an union used to take the read numbers from lex and store an array of ints to keep the coeffients of all the terms. At position 0 I have the coeffient of the term X^0 and so on until 9.
